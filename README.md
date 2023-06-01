@@ -23,7 +23,7 @@
  **Onde me encontrar:**
   <p>
     </a>
-     <a href="https://www.instagram.com/amathias01/">
+     <a href="https://www.instagram.com/amathias01">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
 </p>
