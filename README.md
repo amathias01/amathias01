@@ -3,7 +3,7 @@
   :purple_heart: Olá, seja bem-vindo! Meu nome é <strong>Adrian Matias</strong><img src="https://komarev.com/ghpvc/?username=amathias01&color=6C63FF&style=flat-square&label=Views" align="right" alt="Views"><br>
   
 
- > Sobre mim: <br> Tenho <strong> 22 anos </strong> e atualmente, faço faculdade na Unicesumar  Tecnologia da Informação. 
+ > Sobre mim: <br> Tenho <strong> 22 anos </strong> e atualmente, curso Tecnologia da Informação - Unicesumar. 
 
 
  **Linguagens e Frameworks:**
